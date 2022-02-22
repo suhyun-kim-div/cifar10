@@ -1,0 +1,8 @@
+[core]
+    remote = cifar10
+['remote "cifar10"']
+    url = s3://cifar10
+    endpointurl = https://gocap.kr:30392
+    access_key_id = cifar10-practice
+    secret_access_key = yxhAuJrFrmuHrZMEYHmAB0DzSSo6v4huqHULwUyE
+    ssl_verify = false
